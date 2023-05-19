@@ -25,7 +25,7 @@ whoisburhan/whoisburhan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: https://gameseekers.itch.io/
+[website]: https://burhan-uddin.mystrikingly.com
 [twitter]: https://twitter.com/whoisburhan
 [youtube]: https://www.youtube.com/channel/UC1sdbmziSR3Abluba5bfQww
 [instagram]: https://instagram.com/whoisburhan
