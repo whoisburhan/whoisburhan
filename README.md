@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Uddin</h1>
-<h3 align="center">A passionate game developer from Mars :p</h3>
+<h3 align="center">A Moronic GAME DEVELOPER / PROGRAMMER from Mars :p</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yz5C6S2X7c4AAAAC/alien-aliens.gif">
 
