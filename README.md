@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burhan Uddin</h1>
-A moronic [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Anime+Lover;Gamer;)](https://git.io/typing-svg) from Mars 👽
-<h3 align="center">A Moronic GAME DEVELOPER / PROGRAMMER from Mars :p</h3>
+<h1 align="center">Hi 👋, I'm BURHAN</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F70C64&vCenter=true&random=false&width=435&lines=A+Moronic+Game+Developer;A+Moronic+Programmer;Crazy+Anime+Lover;A+Moronic+Gamer;Software+Engineer;Alien+From+Mars++%F0%9F%91%BD" alt="Typing SVG" /></a>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yz5C6S2X7c4AAAAC/alien-aliens.gif">
 
@@ -17,7 +16,7 @@ A moronic [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter
 
 - 📫 How to reach me **whoisburhan@gmail.com**
 
-- ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite hero Miya,Ixia,Novaria,Parsha,Hanabi**
+- ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite heroes Miya,Ixia,Novaria,Parsha,Hanabi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
