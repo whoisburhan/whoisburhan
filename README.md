@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Uddin</h1>
+A moronic [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Anime+Lover;Gamer;)](https://git.io/typing-svg) from Mars 👽
 <h3 align="center">A Moronic GAME DEVELOPER / PROGRAMMER from Mars :p</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yz5C6S2X7c4AAAAC/alien-aliens.gif">
