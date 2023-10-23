@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=twitter&style=for-the-badge" alt="whoisburhan" /></a> </p>
 
+![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity)
+
 - 🌱 I’m currently learning **Shader Graph, VFX in Unity**
 
 - 👨‍💻 All of my projects are available at [https://burhan-uddin.mystrikingly.com/](https://burhan-uddin.mystrikingly.com/)
