@@ -59,9 +59,9 @@
 
 #
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="whoisburhan" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="whoisburhan" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=tokyonight)
 
 
 #
