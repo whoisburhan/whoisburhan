@@ -59,7 +59,17 @@
 
 #
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact" alt="whoisburhan" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&locale=en" alt="whoisburhan" />
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact" alt="whoisburhan" /></p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+</br>
 
 
 
