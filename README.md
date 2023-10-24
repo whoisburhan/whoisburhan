@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BURHAN</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F70C64&vCenter=true&random=false&width=435&lines=A+Moronic+Game+Developer;A+Moronic+Programmer;Crazy+Anime+Lover;A+Moronic+Gamer;Software+Engineer;Alien+From+Mars++%F0%9F%91%BD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F70C64&vCenter=true&random=false&width=435&lines=A+Moronic+Game+Developer;A+Moronic+Programmer;Shader+Artist;Crazy+Anime+Lover;A+Moronic+Gamer;Software+Engineer;Alien+From+Mars++%F0%9F%91%BD" alt="Typing SVG" /></a>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yz5C6S2X7c4AAAAC/alien-aliens.gif">
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **whoisburhan@gmail.com**
 
-- ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite heroes Miya,Ixia,Novaria,Parsha,Hanabi**
+- ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite heroes Miya, Ixia,Novaria, Parsha, Hanabi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,13 +43,13 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [website]: https://burhan-uddin.mystrikingly.com
-[twitter]: https://twitter.com/whoisburhan
+[Twitter]: https://twitter.com/whoisburhan
 [youtube]: https://www.youtube.com/channel/UC1sdbmziSR3Abluba5bfQww
 [instagram]: https://instagram.com/whoisburhan
 [linkedin]: https://www.linkedin.com/in/burhan-uddin-258420148/
