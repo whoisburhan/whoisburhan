@@ -31,7 +31,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="Unity_Black.svg" src-dark="Unity_White.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="Unity_White.svg" src-dark="Unity_Black.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </br>
 
