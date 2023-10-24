@@ -1,5 +1,9 @@
 ![logo](https://github.com/whoisburhan/whoisburhan/blob/main/FRESH-MAN.png)
-<h1 align="center">Hi 👋, I'm BURHAN</h1>
+-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=F20047&center=true&vCenter=true&random=false&height=35&lines=Game+Developer;Game+Programmer;Shader+Artist;An+Alien+From+Mars;Anime+Freak;Moronic+Gamer;Software+Engineer)](https://git.io/typing-svg)</p>
+
+#
+
+<!--- <h1 align="center">Hi 👋, I'm BURHAN</h1> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F70C64&vCenter=true&random=false&width=435&lines=A+Moronic+Game+Developer;A+Moronic+Programmer;Shader+Artist;Crazy+Anime+Lover;A+Moronic+Gamer;Software+Engineer;Alien+From+Mars++%F0%9F%91%BD" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisburhan&label=Profile%20views&color=0e75b6&style=flat" alt="whoisburhan" /></p> 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yz5C6S2X7c4AAAAC/alien-aliens.gif">
