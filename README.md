@@ -55,9 +55,9 @@
 
 #
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisburhan&" alt="whoisburhan" /> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whoisburhan&theme=dark&fire=EB6B43)](https://git.io/streak-stats) ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark) 
 
-![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=wtf)
+#
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact" alt="whoisburhan" /></p> -->
 
