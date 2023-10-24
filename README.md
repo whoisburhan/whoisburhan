@@ -32,7 +32,7 @@
 
 ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=wtf)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact" alt="whoisburhan" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact" alt="whoisburhan" /></p> -->
 
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&locale=en" alt="whoisburhan" /></p> -->
 
