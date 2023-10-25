@@ -56,6 +56,8 @@
 
 #
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whoisburhan&theme=dark)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whoisburhan&theme=dark&fire=EB6B43)](https://git.io/streak-stats) ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
 
 #
