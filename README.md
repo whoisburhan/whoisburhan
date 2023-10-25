@@ -56,12 +56,16 @@
 
 #
 
+### 🧠 LeetCode Problem Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whoisburhan&theme=dark)](https://git.io/streak-stats) ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
+![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
+
+#
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whoisburhan&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact&theme=dark" alt="whoisburhan" /></p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark) -->
 
