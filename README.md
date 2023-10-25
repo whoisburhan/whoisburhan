@@ -63,7 +63,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisburhan&show_icons=true&locale=en&layout=compact&theme=dark" alt="whoisburhan" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark) -->
 
 
 #
