@@ -73,6 +73,11 @@
 [![Chapter -7 (A Romantic Adventure)  Secne: A_Scenic_Walk & Stargazing_Together [The Freshman]](https://ytcards.demolab.com/?id=-9QbyutZ_94&title=Chapter+-7+%28A+Romantic+Adventure%29++Secne%3A+A_Scenic_Walk+%26+Stargazing_Together+%5BThe+Freshman%5D&lang=en&timestamp=1681574189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chapter -7 (A Romantic Adventure)  Secne: A_Scenic_Walk & Stargazing_Together [The Freshman]")](https://www.youtube.com/watch?v=-9QbyutZ_94)
 <!-- END YOUTUBE-CARDS -->
 
+#
+
+### 🧰 Lastest Indie Project
+
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
