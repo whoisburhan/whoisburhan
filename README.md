@@ -13,7 +13,6 @@
 
 <p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=twitter&style=for-the-badge" alt="whoisburhan" /></a> </p>
 
-<span style="color:#f03c15">This is a red header</span>
 - 🌱 I’m currently learning **Shader Graph, VFX in Unity**
 
 - 👨‍💻 All of my projects are available at [https://burhan-uddin.mystrikingly.com/](https://burhan-uddin.mystrikingly.com/)
@@ -62,7 +61,7 @@
 
 #
 
-### 📺 Youtube <span style="color:#f03c15">This is a red header</span>
+### 📺 Youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Unity Shader Show - 1](https://ytcards.demolab.com/?id=EUmzWWx0FC8&title=Unity+Shader+Show+-+1&lang=en&timestamp=1697889933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unity Shader Show - 1")](https://www.youtube.com/watch?v=EUmzWWx0FC8)
@@ -101,17 +100,13 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [website]: https://burhan-uddin.mystrikingly.com
 [Twitter]: https://twitter.com/whoisburhan
 [youtube]: https://www.youtube.com/channel/UC1sdbmziSR3Abluba5bfQww
-[instagram]: https://instagram.com/whoisburhan
-[linkedin]: https://www.linkedin.com/in/burhan-uddin-258420148/
+[linkedin]: https://www.linkedin.com/in/whoisburhan/
 
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png%29) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png%29) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png%29) `#1589F0`
+
 
