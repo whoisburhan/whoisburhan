@@ -82,7 +82,7 @@
 |---------|---------|
 |The Freshman|Puzzle Master|
 |---------|---------|
-|Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a>|Available in <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)">Playstore</a>|
+|Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a>|Available in <a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster">Playstore</a>|
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
