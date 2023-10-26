@@ -80,7 +80,7 @@
 
 | <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="480" height="270"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="480" height="240"> </a> |
 |---------|---------|
-|The Freshman|Puzzle Master|
+|<p align="center"><b>The Freshman</b></p>|<p align="center">Puzzle Master</p>|
 |Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a>|Available in <a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster">Playstore</a>|
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
