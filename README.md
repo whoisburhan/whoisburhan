@@ -84,12 +84,26 @@ This year I made 2 games from scratch as a fun project. One is a Visual Novel Ga
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark) -->
 
 #
 
+### 🧰 Work Experience
+**Game Programmer (Remote)**</br>
+***GoPokyo Inc,  NS,Canada***</br>	
+(Feb 2022 - Jan 2023)</br></br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark) -->
+**Game Developer (Remote)**</br>
+***Ulka Games Ltd (Owned By Moonfrog Labs)***</br>	
+(Sep 2020 - Feb 2022)</br></br>
 
+**Software Engineer**</br>
+***Console-IT***</br>	
+(May 2019 - Sep 2020)</br></br>           
+                                 
+**Indie Game Developer**</br>
+***Fantasy Realm***</br>	
+(Mar 2017 - present)</br></br>
 
 #
 
