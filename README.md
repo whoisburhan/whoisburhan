@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisburhan&label=Profile%20views&color=0e75b6&style=flat" alt="whoisburhan" /></p> 
 
 <p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/badge/Let's%20Connect%20%40whoisburhan-blue?style=flat-square&logo=linkedin" alt="whoisburhan" /></a> 
-<a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/badge/Email%20me%20%40whoisburhan-FF1654?style=flat-squar&logo=gmail&logoColor=white" alt="whoisburhan" /></a></p>
+<a href="mailto:whoisburhan@gmail.com"><img src="https://img.shields.io/badge/Email%20me%20%40whoisburhan-FF1654?style=flat-squar&logo=gmail&logoColor=white" alt="whoisburhan" /></a></p>
 
 <!--<p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=linkedin&style=for-the-badge" alt="whoisburhan" /></a> </p>-->
 
