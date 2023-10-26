@@ -8,12 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F70C64&vCenter=true&random=false&width=435&lines=A+Moronic+Game+Developer;A+Moronic+Programmer;Shader+Artist;Crazy+Anime+Lover;A+Moronic+Gamer;Software+Engineer;Alien+From+Mars++%F0%9F%91%BD" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisburhan&label=Profile%20views&color=0e75b6&style=flat" alt="whoisburhan" /></p> 
 
-
-
-
 <p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=twitter&style=for-the-badge" alt="whoisburhan" /></a> </p>
 
-- 🌱 I’m currently learning **Shader Graph, VFX in Unity**
+- 🌱 I’m currently learning **Shader Graph in Unity**
 
 - 👨‍💻 All of my projects are available at [https://burhan-uddin.mystrikingly.com/](https://burhan-uddin.mystrikingly.com/)
 
