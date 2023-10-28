@@ -21,7 +21,7 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 - ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite heroes Miya, Ixia, Novaria, Parsha, Hanabi**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:whoisburhan@gmail.com"><img align="left" alt="mariabarkouzou | GMail" height="30" width="40"" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 <a href="https://twitter.com/whoisburhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisburhan" height="30" width="40" /></a>
@@ -29,9 +29,9 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 <a href="https://www.youtube.com/c/fantasy_realm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fantasy_realm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/whoisburhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whoisburhan" height="30" width="40" /></a>
 <a href="https://discord.gg/iamburhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamburhan" height="30" width="40" /></a>
-</p>
+</p>-->
 
----
+ #
 
 ### 🧰 Languages and Tools
 
