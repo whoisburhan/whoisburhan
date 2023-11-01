@@ -13,7 +13,7 @@
 
 <!--<p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=linkedin&style=for-the-badge" alt="whoisburhan" /></a> </p>-->
 
-I'm Burhan. A moronic game developer/programmer for the last 6 years. In my journey, I have worked with many studios and individual clients. I love the 2D art style personally but also worked in 3D Games. Oh, one thing don't get confused by my public repository code, I can write code much cleaner than this 😅 I love to mess up with shader although I am not very good at it yet. If you want to work with an Alien from other world feel free to knock me, Just don't inform NASA about me plz......
+I'm Burhan. A moronic game developer/programmer for the last 6 years. In my journey, I have worked with many studios and individual clients. I love the 2D art style personally but also worked in 3D Games. Oh, one thing don't get confused by my public repository code, I can write code much cleaner than this 😅 I love to mess up with shader although I am not very good at it yet. If you want to work with an Alien from another world feel free to knock me, Just don't inform NASA about me plz......
 
 - 🌱 I’m currently learning **Shader Graph in Unity**
 
@@ -54,6 +54,38 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 #
 
+### 🧰 Work Experience
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>GoPokyo Inc,  NS,Canada</td>
+    <td>Game Programmer (Remote)</td>
+    <td>Feb 2022 - Jan 2023</td>
+  </tr>
+  <tr>
+    <td>Moonfrog Labs</td>
+    <td>Game Developer (Remote)</td>
+    <td>Sep 2020 - Feb 2022</td>
+  </tr>
+  <tr>
+    <td>Console-IT</td>
+    <td>Software Engineer(Unity)</td>
+    <td>May 2019 - Sep 2020</td>
+  </tr>
+ <tr>
+    <td>Fantasy Realm</td>
+    <td>Indie Game Developer</td>
+    <td>Mar 2017 - present</td>
+  </tr>
+</table>
+
+#
+
 ### 🧠 LeetCode Problem Stats
 
 ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
@@ -89,48 +121,5 @@ This year I made 2 games from scratch as a fun project. One is a Visual Novel Ga
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=dark) -->
 
 #
-
-### 🧰 Work Experience
-**Game Programmer (Remote)**</br>
-***GoPokyo Inc,  NS,Canada***</br>	
-(Feb 2022 - Jan 2023)</br></br>
-
-**Game Developer (Remote)**</br>
-***Ulka Games Ltd (Owned By Moonfrog Labs)***</br>	
-(Sep 2020 - Feb 2022)</br></br>
-
-**Software Engineer**</br>
-***Console-IT***</br>	
-(May 2019 - Sep 2020)</br></br>           
-                                 
-**Indie Game Developer**</br>
-***Fantasy Realm***</br>	
-(Mar 2017 - present)</br></br>
-
-#
-
-
-
-
-
-</br>
-
-
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[website]: https://burhan-uddin.mystrikingly.com
-[Twitter]: https://twitter.com/whoisburhan
-[youtube]: https://www.youtube.com/channel/UC1sdbmziSR3Abluba5bfQww
-[linkedin]: https://www.linkedin.com/in/whoisburhan/
-
-
-
-
+<p align=""> <a href="https://www.linkedin.com/in/whoisburhan/" target="blank"><img src="https://img.shields.io/badge/Let's%20Connect%20%40whoisburhan-blue?style=flat-square&logo=linkedin" alt="whoisburhan" /></a> 
+<a href="mailto:whoisburhan@gmail.com"><img src="https://img.shields.io/badge/Email%20me%20%40whoisburhan-FF1654?style=flat-squar&logo=gmail&logoColor=white" alt="whoisburhan" /></a></p>
