@@ -107,8 +107,6 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 ### 🧰 Lastest Indie Project in 2023
 
-This year I made 2 games from scratch as a fun project. One is a Visual Novel Game and another one is a Combo of Multiple Puzzle game.
-
 | <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a> |
 |---------|---------|
 |<p align="center"><b>The Freshman</b></p>|<p align="center">Puzzle Master</p>|
