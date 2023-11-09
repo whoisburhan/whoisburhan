@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ![logo](https://github.com/whoisburhan/whoisburhan/blob/main/FRESH-MAN.png)
 -<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=F20047&center=true&vCenter=true&random=false&height=35&lines=Game+Developer;Game+Programmer;Shader+Artist;An+Alien+From+Mars;Anime+Freak;Moronic+Gamer;Software+Engineer)](https://git.io/typing-svg)</p>
 
@@ -91,9 +90,6 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 ### 🧠 LeetCode Problem Stats
 
 ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="whoisburhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/whoisburhan?trk=profile-badge">Burhan Uddin</a></div>
-              
 
 #
 
