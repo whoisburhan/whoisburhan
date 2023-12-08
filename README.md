@@ -96,7 +96,12 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 ### 📺 Youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Showing 3D Obj in UI using Render Texture and Raw Image Component](https://ytcards.demolab.com/?id=Q-8iZzFFze8&title=Showing+3D+Obj+in+UI+using+Render+Texture+and+Raw+Image+Component&lang=en&timestamp=1701763347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Showing 3D Obj in UI using Render Texture and Raw Image Component")](https://www.youtube.com/watch?v=Q-8iZzFFze8)
+[![Evolution Test (Pyramid Watch)](https://ytcards.demolab.com/?id=DmFO1DVpjys&title=Evolution+Test+%28Pyramid+Watch%29&lang=en&timestamp=1701376069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evolution Test (Pyramid Watch)")](https://www.youtube.com/watch?v=DmFO1DVpjys)
+[![Agent Ava (Dev Log) Early Prototype Phase](https://ytcards.demolab.com/?id=LQ8uPv-PLfk&title=Agent+Ava+%28Dev+Log%29+Early+Prototype+Phase&lang=en&timestamp=1700202797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Agent Ava (Dev Log) Early Prototype Phase")](https://www.youtube.com/watch?v=LQ8uPv-PLfk)
+[![Bike Animation](https://ytcards.demolab.com/?id=4qm6YyU5IMQ&title=Bike+Animation&lang=en&timestamp=1700107061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bike Animation")](https://www.youtube.com/watch?v=4qm6YyU5IMQ)
+[![Unity Shader Show - 1](https://ytcards.demolab.com/?id=EUmzWWx0FC8&title=Unity+Shader+Show+-+1&lang=en&timestamp=1697889933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unity Shader Show - 1")](https://www.youtube.com/watch?v=EUmzWWx0FC8)
+[![Ads For Puzzle Master](https://ytcards.demolab.com/?id=kg5nx5Ybkzc&title=Ads+For+Puzzle+Master&lang=en&timestamp=1692973331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ads For Puzzle Master")](https://www.youtube.com/watch?v=kg5nx5Ybkzc)
 <!-- END YOUTUBE-CARDS -->
 
 #
