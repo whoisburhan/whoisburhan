@@ -87,25 +87,6 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 #
 
-### 🧠 LeetCode Problem Stats
-
-![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
-
-#
-
-### 📺 Youtube
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Agent Ava Dev Log](https://ytcards.demolab.com/?id=JRpSLdePaa0&title=Agent+Ava+Dev+Log&lang=en&timestamp=1707047348&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Agent Ava Dev Log")](https://www.youtube.com/watch?v=JRpSLdePaa0)
-[![Water Shader](https://ytcards.demolab.com/?id=CRhP76DL4r8&title=Water+Shader&lang=en&timestamp=1705397229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Water Shader")](https://www.youtube.com/watch?v=CRhP76DL4r8)
-[![4 types of Dissolve Effect Using Unity Shader Graph](https://ytcards.demolab.com/?id=7dVNHnh2nmw&title=4+types+of+Dissolve+Effect+Using+Unity+Shader+Graph&lang=en&timestamp=1705062399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 types of Dissolve Effect Using Unity Shader Graph")](https://www.youtube.com/watch?v=7dVNHnh2nmw)
-[![Outer space using Unity Shader graph (Using Noise and Fresnel Node)](https://ytcards.demolab.com/?id=HjHhI1QsoVQ&title=Outer+space+using+Unity+Shader+graph+%28Using+Noise+and+Fresnel+Node%29&lang=en&timestamp=1705049439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Outer space using Unity Shader graph (Using Noise and Fresnel Node)")](https://www.youtube.com/watch?v=HjHhI1QsoVQ)
-[![Showing 3D Obj in UI using Render Texture and Raw Image Component](https://ytcards.demolab.com/?id=Q-8iZzFFze8&title=Showing+3D+Obj+in+UI+using+Render+Texture+and+Raw+Image+Component&lang=en&timestamp=1701763347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Showing 3D Obj in UI using Render Texture and Raw Image Component")](https://www.youtube.com/watch?v=Q-8iZzFFze8)
-[![Evolution Test (Pyramid Watch)](https://ytcards.demolab.com/?id=DmFO1DVpjys&title=Evolution+Test+%28Pyramid+Watch%29&lang=en&timestamp=1701376069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evolution Test (Pyramid Watch)")](https://www.youtube.com/watch?v=DmFO1DVpjys)
-<!-- END YOUTUBE-CARDS -->
-
-#
-
 ### 🧰 Lastest Indie Project in 2023
 
 | <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a> |
@@ -137,7 +118,26 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
   
 </table>
 
+#
 
+### 📺 Youtube
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Agent Ava Dev Log](https://ytcards.demolab.com/?id=JRpSLdePaa0&title=Agent+Ava+Dev+Log&lang=en&timestamp=1707047348&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Agent Ava Dev Log")](https://www.youtube.com/watch?v=JRpSLdePaa0)
+[![Water Shader](https://ytcards.demolab.com/?id=CRhP76DL4r8&title=Water+Shader&lang=en&timestamp=1705397229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Water Shader")](https://www.youtube.com/watch?v=CRhP76DL4r8)
+[![4 types of Dissolve Effect Using Unity Shader Graph](https://ytcards.demolab.com/?id=7dVNHnh2nmw&title=4+types+of+Dissolve+Effect+Using+Unity+Shader+Graph&lang=en&timestamp=1705062399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 types of Dissolve Effect Using Unity Shader Graph")](https://www.youtube.com/watch?v=7dVNHnh2nmw)
+[![Outer space using Unity Shader graph (Using Noise and Fresnel Node)](https://ytcards.demolab.com/?id=HjHhI1QsoVQ&title=Outer+space+using+Unity+Shader+graph+%28Using+Noise+and+Fresnel+Node%29&lang=en&timestamp=1705049439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Outer space using Unity Shader graph (Using Noise and Fresnel Node)")](https://www.youtube.com/watch?v=HjHhI1QsoVQ)
+[![Showing 3D Obj in UI using Render Texture and Raw Image Component](https://ytcards.demolab.com/?id=Q-8iZzFFze8&title=Showing+3D+Obj+in+UI+using+Render+Texture+and+Raw+Image+Component&lang=en&timestamp=1701763347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Showing 3D Obj in UI using Render Texture and Raw Image Component")](https://www.youtube.com/watch?v=Q-8iZzFFze8)
+[![Evolution Test (Pyramid Watch)](https://ytcards.demolab.com/?id=DmFO1DVpjys&title=Evolution+Test+%28Pyramid+Watch%29&lang=en&timestamp=1701376069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evolution Test (Pyramid Watch)")](https://www.youtube.com/watch?v=DmFO1DVpjys)
+<!-- END YOUTUBE-CARDS -->
+
+#
+
+### 🧠 LeetCode Problem Stats
+
+![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
+
+#
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
