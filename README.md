@@ -101,19 +101,19 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 ### 🧰 Mobile Games (Personal)
 <table style="width:100%">
   <tr>
-    <th><a href="https://play.google.com/store/apps/details?id=com.fantasyrealm.freshman.visualnovel.otome"><img src="Img\The Freshman Logo_New2_Low.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\PuzzeleMasterLogo_low.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.PongSoccer"><img src="Img\PongSoccer.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.fantasyrealm.freshman.visualnovel.otome"><img src="Img\The Freshman Logo_New2_Low.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\PuzzeleMasterLogo_low.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.PongSoccer"><img src="Img\PongSoccer.png" width="200" height="200"> </a></th>
   </tr>
   <tr>
-    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.AmongAll"><img src="Img\AA.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\MergeBallLogoLow.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.Tiles_Match"><img src="Img\TillesMatch.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.AmongAll"><img src="Img\AA.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\MergeBallLogoLow.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.Tiles_Match"><img src="Img\TillesMatch.png" width="200" height="200"> </a></th>
   </tr>
   <tr>
-    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.GameZone"><img src="Img\Gamzone.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\EggJump.png" width="250" height="250"> </a></th>
-    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.TilesBreak"><img src="Img\TilesBreak.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.GameZone"><img src="Img\Gamzone.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\EggJump.png" width="200" height="200"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.TilesBreak"><img src="Img\TilesBreak.png" width="200" height="200"> </a></th>
   </tr>
   
 </table>
@@ -123,14 +123,14 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 ### 🧰 Browser Games (Personal)
 <table style="width:100%">
   <tr>
-    <th><a href="https://gameseekers.itch.io/time-trouble"><img src="Img\TimeTravel.png" width="315" height="250"> </a></th>
-    <th><a href="https://gameseekers.itch.io/pong-soccer"><img src="Img\PongFootballWeb.png" width="315" height="250"> </a></th>
-    <th><a href="https://gameseekers.itch.io/master-fish-hunter"><img src="Img\MasterFishHunter1.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/time-trouble"><img src="Img\TimeTravel.png" width="252" height="200"> </a></th>
+    <th><a href="https://gameseekers.itch.io/pong-soccer"><img src="Img\PongFootballWeb.png" width="252" height="200"> </a></th>
+    <th><a href="https://gameseekers.itch.io/master-fish-hunter"><img src="Img\MasterFishHunter1.png" width="252" height="200"> </a></th>
   </tr>
  <tr>
-    <th><a href="https://gameseekers.itch.io/snack-game"><img src="Img\SnackGame.png" width="315" height="250"> </a></th>
-    <th><a href="https://gameseekers.itch.io/theseus-and-the-minotaur"><img src="Img\Thenus.png" width="315" height="250"> </a></th>
-    <th><a href="https://gameseekers.itch.io/tiles-match-master"><img src="Img\TileMatchWeb.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/snack-game"><img src="Img\SnackGame.png" width="252" height="200"> </a></th>
+    <th><a href="https://gameseekers.itch.io/theseus-and-the-minotaur"><img src="Img\Thenus.png" width="252" height="200"> </a></th>
+    <th><a href="https://gameseekers.itch.io/tiles-match-master"><img src="Img\TileMatchWeb.png" width="252" height="200"> </a></th>
   </tr>
   
 </table>
