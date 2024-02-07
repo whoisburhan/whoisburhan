@@ -115,6 +115,26 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 |Devlopment Time: 3.5 Month|Devlopment Time: 1.5 Month for first release (Ongoing)|
 |Project Type: Personal **[Fantasy Realm]**|Project Type: Personal **[Fantasy Realm]**|
 
+### 🧰 Mobile Games (Personal)
+<table style="width:100%">
+  <tr>
+    <th><a href="https://play.google.com/store/apps/details?id=com.fantasyrealm.freshman.visualnovel.otome"><img src="Img\The Freshman Logo_New2_Low.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\PuzzeleMasterLogo_low.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.PongSoccer"><img src="Img\PongSoccer.png" width="250" height="250"> </a></th>
+  </tr>
+  <tr>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.AmongAll"><img src="Img\AA.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\MergeBallLogoLow.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.Tiles_Match"><img src="Img\TillesMatch.png" width="250" height="250"> </a></th>
+  </tr>
+  <tr>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.GameZone"><img src="Img\Gamzone.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\EggJump.png" width="250" height="250"> </a></th>
+    <th><a href="https://play.google.com/store/apps/details?id=com.GameSeekersStudio.TilesBreak"><img src="Img\TilesBreak.png" width="250" height="250"> </a></th>
+  </tr>
+  
+</table>
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
