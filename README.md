@@ -120,6 +120,21 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 #
 
+### 🧰 Browser Games (Personal)
+<table style="width:100%">
+  <tr>
+    <th><a href="https://gameseekers.itch.io/time-trouble"><img src="Img\TimeTravel.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/pong-soccer"><img src="Img\PongFootballWeb.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/master-fish-hunter"><img src="Img\MasterFishHunter1.png" width="315" height="250"> </a></th>
+  </tr>
+ <tr>
+    <th><a href="https://gameseekers.itch.io/snack-game"><img src="Img\SnackGame.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/theseus-and-the-minotaur"><img src="Img\Thenus.png" width="315" height="250"> </a></th>
+    <th><a href="https://gameseekers.itch.io/tiles-match-master"><img src="Img\TileMatchWeb.png" width="315" height="250"> </a></th>
+  </tr>
+  
+</table>
+
 ### 📺 Youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
