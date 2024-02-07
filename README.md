@@ -87,6 +87,26 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 #
 
+### 🧰 Lastest Indie Project in 2024
+
+<table style="width:100%">
+  <tr>
+    <th><img src="Img\Agent_Ava.png" width="800" height="452"></th>  
+  </tr>
+ <tr>
+    <th> Agent Ava's Odyssey</th>
+ </tr>
+ <tr>
+    <td> On Development . . . </td>
+ </tr>
+ <tr>
+    <td> Project Type: Personal [Fantasy Realm]</td>
+ </tr>
+  
+</table>
+
+#
+
 ### 🧰 Lastest Indie Project in 2023
 
 | <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a> |
