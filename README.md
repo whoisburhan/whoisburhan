@@ -20,7 +20,7 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 - 👨‍💻 Portfolio: [https://burhan-uddin.mystrikingly.com/](https://burhan-uddin.mystrikingly.com/)
 
-- ⚡ Fun fact **I am a MLBB player (Mage & Marksman). Top 5 Favourite heroes Miya, Ixia, Novaria, Parsha, Hanabi**
+- ⚡ Fun fact:  Do you know when 2 + 2 = 5 ?
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
