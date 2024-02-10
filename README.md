@@ -132,13 +132,6 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
  </tr>
 </table>
 
-| <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a> |
-|---------|---------|
-|<p align="center"><b>The Freshman</b></p>|<p align="center">Puzzle Master</p>|
-|Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a>|Available in <a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster">Playstore</a>|
-|Devlopment Time: 3.5 Months |Devlopment Time: 1.5 Months for the first release (Ongoing)|
-|Project Type: Personal <b>[Fantasy Realm]</b>|Project Type: Personal <b>[Fantasy Realm]</b>|
-
 #
 
 ### 🧰 Mobile Games (Personal)
