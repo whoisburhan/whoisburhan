@@ -109,12 +109,35 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 ### 🧰 Lastest Indie Project in 2023
 
+<table style="width:100%">
+ <tr>
+   <td><a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a></td>
+   <td><a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a></td>
+ </tr>
+ <tr>
+  <th>The Freshman</th>
+  <th>Kawaii Puzzle</th>
+ </tr>
+ <tr>
+  <td>Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a></td>
+  <td>Available in <a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster">Playstore</a></td>
+ </tr>
+ <tr>
+  <td>Devlopment Time: 3.5 Months</td>
+  <td>Devlopment Time: 1.5 Months for the first release</td>
+ </tr>
+ <tr>
+  <td>Project Type: Personal <b>[Fantasy Realm]</b></td>
+  <td>Project Type: Personal <b>[Fantasy Realm]</b></td>
+ </tr>
+</table>
+
 | <a href="https://fantasyrealms.itch.io/the-freshman"><img src="Img\THE_FRESHMAN_1.png" width="384" height="216"> </a>|  <a href="[https://fantasyrealms.itch.io/the-freshman](https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster)"><img src="Img\PUZZLE_MASTER_1.jpg" width="384" height="180"> </a> |
 |---------|---------|
 |<p align="center"><b>The Freshman</b></p>|<p align="center">Puzzle Master</p>|
 |Available in <a href="https://fantasyrealms.itch.io/the-freshman">Itch.io</a>|Available in <a href="https://play.google.com/store/apps/details?id=com.FantasyRealm.PuzzleMaster">Playstore</a>|
 |Devlopment Time: 3.5 Months |Devlopment Time: 1.5 Months for the first release (Ongoing)|
-|Project Type: Personal **[Fantasy Realm]**|Project Type: Personal **[Fantasy Realm]**|
+|Project Type: Personal <b>[Fantasy Realm]</b>|Project Type: Personal <b>[Fantasy Realm]</b>|
 
 #
 
