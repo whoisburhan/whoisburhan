@@ -89,22 +89,29 @@ I'm Burhan. A moronic game developer/programmer for the last 6 years. In my jour
 
 ### 🧰 Lastest Indie Project in 2024
 
-<table style="width:100%">
-  <tr>
-    <th><img src="Img\Agent_Ava.png" width="800" height="452"></th>  
-  </tr>
- <tr>
-    <th> Agent Ava's Odyssey</th>
- </tr>
- <tr>
-    <td> On Development . . . </td>
- </tr>
- <tr>
-    <td> Project Type: Personal [Fantasy Realm]</td>
- </tr>
-  
 </table>
-
+<table style="width:100%">
+ <tr>
+   <td><img src="Img\Agent_Ava.png" width="384" height="216"> </td>
+   <td><a href="https://fantasyrealms.itch.io/battle-of-heros"><img src="Img\TheBattleOfHeros.png" width="384" height="216"> </a></td>
+ </tr>
+ <tr>
+  <th>Agent Ava's Odyssey</th>
+  <th>Battle Of Heros</th>
+ </tr>
+ <tr>
+  <td>Project Type: Personal [Fantasy Realm]</td>
+  <td>Available in <a href="https://fantasyrealms.itch.io/battle-of-heros">Itch.io</a></td>
+ </tr>
+ <tr>
+  <td> On Development . . . </td>
+  <td>Devlopment Time: 2 Months</td>
+ </tr>
+ <tr>
+  <td></td>
+  <td>Project Type: Personal <b>[Fantasy Realm]</b></td>
+ </tr>
+</table>
 #
 
 ### 🧰 Lastest Indie Project in 2023
