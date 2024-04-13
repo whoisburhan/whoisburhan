@@ -14,7 +14,7 @@
 
 <!--<p align=""> <a href="https://twitter.com/whoisburhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoisburhan?logo=linkedin&style=for-the-badge" alt="whoisburhan" /></a> </p>-->
 
-I'm Burhan. A moronic game developer/programmer for the last 6 years. In my journey, I have worked with many studios and individual clients. I love the 2D art style personally but also worked in 3D Games. Oh, one thing don't get confused by my public repository code, I can write code much cleaner than this 😅 I love to mess up with shader although I am not very good at it yet. If you want to work with an Alien from another world feel free to knock me, Just don't inform NASA about me plz......
+A moronic game developer/programmer since 2017. A Computer Science (CS) Graduate.
 
 - 🌱 I’m currently learning **Shader Graph in Unity**
 
