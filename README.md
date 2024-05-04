@@ -92,15 +92,15 @@ A moronic game developer/programmer since 2017. A Computer Science (CS) Graduate
 </table>
 <table style="width:100%">
  <tr>
-   <td><img src="Img\Agent_Ava.png" width="384" height="216"> </td>
-   <td><a href="https://fantasyrealms.itch.io/battle-of-heros"><img src="Img\TheBattleOfHeros.png" width="384" height="216"> </a></td>
+   <td><a href="https://fantasyrealms.itch.io/anime-mosaic-maiden-quest"><img src="Img\Anime Mosaic_ Maiden Quest Itch.io Logo.png" width="384" height="255"> </a></td>
+   <td><a href="https://fantasyrealms.itch.io/battle-of-heros"><img src="Img\Battle Of Heros.png" width="384" height="216"> </a></td>
  </tr>
  <tr>
-  <th>Agent Ava's Odyssey</th>
+  <th>Anime Mosaic: Maiden Quest</th>
   <th>Battle Of Heros</th>
  </tr>
  <tr>
-  <td>Project Type: Personal [Fantasy Realm]</td>
+   <td>Available in <a href="https://fantasyrealms.itch.io/anime-mosaic-maiden-quest">Itch.io</a></td>
   <td>Available in <a href="https://fantasyrealms.itch.io/battle-of-heros">Itch.io</a></td>
  </tr>
  <tr>
@@ -108,8 +108,28 @@ A moronic game developer/programmer since 2017. A Computer Science (CS) Graduate
   <td>Devlopment Time: 2 Months</td>
  </tr>
  <tr>
-  <td></td>
   <td>Project Type: Personal <b>[Fantasy Realm]</b></td>
+  <td>Project Type: Personal <b>[Fantasy Realm]</b></td>
+ </tr>
+ <tr>
+   <td><img src="Img\Agent_Ava.png" width="384" height="216"> </td>
+   <td></a></td>
+ </tr>
+ <tr>
+  <th>Agent Ava's Odyssey</th>
+  <th></th>
+ </tr>
+ <tr>
+  <td>Project Type: Personal [Fantasy Realm]</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td> On Development . . . </td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
  </tr>
 </table>
 
