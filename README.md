@@ -223,6 +223,10 @@ A moronic game developer/programmer since 2017. A Computer Science (CS) Graduate
 ![](https://leetcard.jacoblin.cool/whoisburhan?ext=activity&theme=dark&animation=false) 
 
 #
+
+<img src="https://duolingo-stats-card.vercel.app/api?username=BurhanUddi11998&theme=tokyonight" alt="Duolingo Stats"/>
+
+#
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whoisburhan&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
