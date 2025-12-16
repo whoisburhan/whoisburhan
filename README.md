@@ -31,12 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Burhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisburhan&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisburhan&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 💻 Problem Solving & Language Learning
 
 <p align="center">
