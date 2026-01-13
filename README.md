@@ -6,14 +6,14 @@
 ---
 
 ### 🧩 About Me
-- 🔹 8 years of hands-on experience with Unity and C#
-- 🎓 Bachelor’s degree in Computer Science & Engineering  
-- 🚀 Shipped 20+ games across Android and WebGL  
-- 🧠 Strong in gameplay architecture, UI/UX, and optimization  
-- ☁️ Integrated backend systems with PlayFab  
-- 🛠️ Experienced in building custom Unity editor tools  
-- 🤖 Skilled at leveraging AI tools for faster prototyping, optimization, and creative ideation  
-- 🎨 Passionate about game feel, clarity, and emotional engagement  
+- 🔹 **8** years of hands-on experience with Unity and C#
+- 🎓 Bachelor’s degree in **Computer Science & Engineering**  
+- 🚀 Shipped **20+ games** across Android and WebGL  
+- 🧠 Strong in **gameplay architecture, UI/UX, and optimization**  
+- ☁️ Integrated backend systems with **PlayFab**  
+- 🛠️ Experienced in building **custom Unity editor tools**  
+- 🤖 Skilled at leveraging **AI tools** for faster prototyping, optimization, and creative ideation  
+- 🎨 Passionate about **game feel, clarity, and emotional engagement**  
 - 🧩 Previously worked with **Moonfrog Labs** and **GoPokyoo Inc.**  
 - 🏗️ Founder of **Fantasy Realm Studio**  
 - 🌍 Multilingual: fluent in **English**, **Bengali**, **Hindi**, and **Urdu**  
