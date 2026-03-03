@@ -7,7 +7,8 @@
 
 ### 🧩 About Me
 - 🔹 **8** years of hands-on experience with Unity and C#
-- 🎓 Bachelor’s degree in **Computer Science & Engineering**  
+- 🎓 Bachelor’s degree in **Computer Science & Engineering**
+- 🎮 Portfolio: [https://fantasyrealms.itch.io/](https://fantasyrealms.itch.io/)
 - 🚀 Shipped **20+ games** across Android and WebGL  
 - 🧠 Strong in **gameplay architecture, UI/UX, and optimization**  
 - ☁️ Integrated backend systems with **PlayFab**  
