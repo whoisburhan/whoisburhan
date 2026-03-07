@@ -24,7 +24,7 @@
 
 ### ⚙️ Core Skills
 - 🧱 Unity (2017 → 6)  
-- 💻 C# / OOP / Design Patterns  
+- 💻 C# / C++ / OOP / Design Patterns  
 - ☁️ PlayFab  
 - 🛠️ Custom Editor Tools  
 - 🎮 UI/UX Systems  
