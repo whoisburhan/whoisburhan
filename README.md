@@ -29,7 +29,7 @@
 - 🛠️ Custom Editor Tools  
 - 🎮 UI/UX Systems  
 - 📱 Mobile & 🌐 WebGL Optimization  
-- 🔄 Git / Plastic SCM  
+- 🔄 Git / Github / Gitlab
 
 ---
 
