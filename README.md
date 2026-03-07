@@ -6,7 +6,7 @@
 ---
 
 ### 🧩 About Me
-- 🔹 **8** years of hands-on experience with Unity and C#
+- 🔹 **8** years of hands-on experience with **Unity** and **C#**
 - 🎓 Bachelor’s degree in **Computer Science & Engineering**
 - 🎮 Portfolio: [https://fantasyrealms.itch.io/](https://fantasyrealms.itch.io/)
 - 💻 **Competitive programming & problemes solving** background
