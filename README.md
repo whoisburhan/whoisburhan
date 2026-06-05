@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Burhan Uddin
 
-🎮 **Senior Unity Gameplay Programmer (8+ Years)**
+🎮 **Senior Unity Gameplay Programmer (8+ Years)**<br>
 💡 Building scalable gameplay systems, clean architecture, and polished player experiences.
 
 ---
