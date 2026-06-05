@@ -55,7 +55,7 @@ Architecture-focused Unity project featuring:
 * UniTask Async Workflows
 * Command Pattern
 * State Machine Architecture
-* Assembly Definition
+* Assembly Definitions
 
 #### 🎴 [CardEngine](https://github.com/whoisburhan/CardEngine)
 
