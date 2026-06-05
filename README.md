@@ -7,13 +7,13 @@
 
 ### 🧩 About Me
 
-* 🎮 8+ years of professional experience with Unity and C#
-* 🚀 Shipped 20+ games across Android and WebGL platforms
-* 🏗️ Founder of Fantasy Realm Studio
-* ☁️ Experienced with PlayFab backend integration
-* 🛠️ Built custom Unity editor tools and development workflows
-* 🧩 Previously worked with Moonfrog Labs and GoPokyoo Inc.
-* 🎓 Bachelor's Degree in Computer Science & Engineering
+* 🎮 **8+ years** of professional experience with **Unity** and **C#**
+* 🧩 Previously worked with **Moonfrog Labs** and **GoPokyoo Inc.**
+* 🚀 Shipped **20+ games** across **PC**, **Mobile** and **WebGL** platforms
+* 🏗️ Founder of **Fantasy Realm Studio**
+* 🎓 Bachelor's Degree in **Computer Science & Engineering**
+* ☁️ Experienced with **PlayFab** backend integration
+* 🛠️ Built custom **Unity editor tools** and development workflows
 
 ---
 
