@@ -45,7 +45,7 @@
 
 ### 🚀 Featured Projects
 
-#### ⚔️ Turn-Based Combat System
+#### ⚔️ [Turn-Based Combat System](https://github.com/whoisburhan/Turn-Based-Combat-System)
 
 Architecture-focused Unity project featuring:
 
@@ -57,7 +57,7 @@ Architecture-focused Unity project featuring:
 * State Machine Architecture
 * Assembly Definition
 
-#### 🎴 Card Engine
+#### 🎴 [CardEngine](https://github.com/whoisburhan/CardEngine)
 
 Reusable Unity card game framework featuring:
 
