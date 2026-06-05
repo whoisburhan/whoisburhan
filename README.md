@@ -42,38 +42,32 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlights
 
 #### ⚔️ [Turn-Based Combat System](https://github.com/whoisburhan/Turn-Based-Combat-System)
 
 Architecture-focused Unity project featuring:
 
-* SOLID Principles
-* MVP Architecture
-* Zenject Dependency Injection
-* UniTask Async Workflows
-* Command Pattern
-* State Machine Architecture
-* Assembly Definitions
-
-#### 🎴 [CardEngine](https://github.com/whoisburhan/CardEngine)
-
-Reusable Unity card game framework featuring:
-
-* Deck generation
-* Card pooling
-* Drag & drop systems
-* Generic player architecture
-* Extensible foundation for multiple card games
+* **SOLID Principles**
+* **MVP Architecture**
+* **Zenject Dependency Injection**
+* **UniTask Async Workflows**
+* **Command Pattern**
+* **State Machine Architecture**
+* **Assembly Definitions**
 
 #### 🎮 Published Games
 
-* Hazari Club
-* Empat Satu (41)
-* Class Room
-* Class Room 2
-* Freshman
-* 20+ shipped projects
+Shipped **20+ games** across **Mobile** and **WebGL**, with professional experience on **PC/console-facing Unity projects**.
+
+* **Hazari Club**
+* **Empat Satu (41)**
+* **Class Room**
+* **Class Room 2**
+* **Freshman**
+* **20+ shipped projects**
+
+🔗 [View Portfolio](https://fantasyrealms.itch.io/)
 
 ---
 
