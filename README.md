@@ -11,9 +11,8 @@
 * 🧩 Previously worked with **Moonfrog Labs** and **GoPokyoo Inc.**
 * 🚀 Shipped **20+ games** across **Mobile** and **WebGL**, with professional experience on **PC/console-facing Unity projects**
 * 🏗️ Founder of **Fantasy Realm Studio**
+* 🧠 Focused on **clean architecture**, scalable gameplay systems, and polished player experiences
 * 🎓 Bachelor's Degree in **Computer Science & Engineering**
-* ☁️ Experienced with **PlayFab** backend integration
-* 🛠️ Built custom **Unity editor tools** and development workflows
 
 ---
 
