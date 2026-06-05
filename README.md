@@ -36,7 +36,7 @@
 * 📦 Unity Addressables
 * 💉 Dependency Injection (Zenject / Extenject)
 * ☁️ PlayFab Integration
-* 🛠️ Custom Editor Tools
+* 🛠️ Unity Tooling (Editor Tools, Assembly Definitions)
 * 🎮 UI/UX Systems
 * 📱 Mobile & 🌐 WebGL Optimization
 * 🔄 Version Control (Git, GitHub, GitLab)
