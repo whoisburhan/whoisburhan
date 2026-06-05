@@ -52,6 +52,7 @@ Architecture-focused Unity project featuring:
 * **MVP Architecture**
 * **Zenject Dependency Injection**
 * **UniTask Async Workflows**
+* **Addressables Asset Workflow**
 * **Command Pattern**
 * **State Machine Architecture**
 * **Assembly Definitions**
