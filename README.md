@@ -38,8 +38,7 @@
 * ☁️ PlayFab Integration
 * 🛠️ Custom Editor Tools
 * 🎮 UI/UX Systems
-* 📱 Mobile Optimization
-* 🌐 WebGL Optimization
+* 📱 Mobile & 🌐 WebGL Optimization
 * 🔄 Git / GitHub / GitLab
 
 ---
