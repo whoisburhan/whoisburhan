@@ -39,7 +39,7 @@
 * 🛠️ Custom Editor Tools
 * 🎮 UI/UX Systems
 * 📱 Mobile & 🌐 WebGL Optimization
-* 🔄 Git / GitHub / GitLab
+* 🔄 Version Control (Git, GitHub, GitLab)
 
 ---
 
