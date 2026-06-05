@@ -27,19 +27,19 @@
 
 ### ⚙️ Core Skills
 
-* 🧱 Unity (2017 → Unity 6)
-* 💻 C# / OOP
-* 🏗️ SOLID Principles & Clean Architecture
-* 🧩 MVP Architecture
-* 🔄 Design Patterns (Command, State, Factory, Object Pool, Observer)
-* ⚡ Async Programming (UniTask, async/await)
-* 📦 Unity Addressables
-* 💉 Dependency Injection (Zenject / Extenject)
-* ☁️ PlayFab Integration
-* 🛠️ Unity Tooling (Editor Tools, Assembly Definitions)
-* 🎮 UI/UX Systems
-* 📱 Mobile & 🌐 WebGL Optimization
-* 🔄 Version Control (Git, GitHub, GitLab)
+* 🧱 **Unity** (2017 → Unity 6)
+* 💻 **C# / OOP**
+* 🏗️ **SOLID Principles & Clean Architecture**
+* 🧩 **MVP Architecture**
+* 🔄 **Design Patterns** (Command, State, Factory, Object Pool, Observer)
+* ⚡ **Async Programming** (UniTask, async/await)
+* 📦 **Unity Addressables**
+* 💉 **Dependency Injection** (Zenject / Extenject)
+* ☁️ **PlayFab Integration**
+* 🛠️ **Unity Tooling** (Editor Tools, Assembly Definitions)
+* 🎮 **UI/UX Systems**
+* 📱 **Mobile & WebGL Optimization**
+* 🗂️ **Version Control** (Git, GitHub, GitLab)
 
 ---
 
